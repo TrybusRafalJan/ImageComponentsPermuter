@@ -1,0 +1,10 @@
+[
+  {
+  "name" = "area1",
+  left_top_cords = [10,100],
+  width = 100,
+  height = 200
+  
+  }
+
+]
